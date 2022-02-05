@@ -47,10 +47,9 @@ body {
 
 .card {
   max-width: 800px;
-  background-color: darkblue;
+  background-color: purple;
   border-radius: 20px;
-  box-shadow: 0 5px 10px black 
-  0 15px 40px black;
+  box-shadow: 0 5px 10px black 0 15px 40px black;
   display: flex;
   padding: 3rem;
   margin: 0 1.5rem;
@@ -74,7 +73,7 @@ body {
 }
 
 .user-info ul {
-  color:list-style-type: none;
+  list-style-type: none;
   display: flex;
   justify-content: space-between;
   padding: 0;
@@ -129,7 +128,6 @@ body {
     max-width: 400px;
   }
 }
-
 
 .repo {
   text-decoration: none;
